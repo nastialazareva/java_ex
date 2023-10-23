@@ -34,7 +34,7 @@ public class program {
         addNumber("Popov", 4644585, bookPhone);
         addNumber("Zharova", 89546477, bookPhone);
         addNumber("Makarov", 123226233, bookPhone);
-        addNumber("Popov", 87242897, bookPhone);
+        addNumber("Popov", 872428897, bookPhone);
         printBook(bookPhone);
     }
 }
